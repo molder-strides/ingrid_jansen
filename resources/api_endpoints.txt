@@ -29,3 +29,4 @@ WebSockets JWT JavaScript Quantum Computing Success doesn’t just find you. You h
 Event Sourcing Quantum Computing Dream big and dare to fail. OAuth Success is not in what you have, but who you are. Automation Microservices
 Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Containerization JWT Replica Set Docker Frontend Happiness is not something ready made. It comes from your own actions. Kubernetes JavaScript Innovation distinguishes between a leader and a follower. Multi-threading
 Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Lambda Functions Zero Downtime Deployment Replica Set Deployment Distributed Systems Code Review Kafka Automation
+Quantum Computing Database Distributed Systems Replica Set React
