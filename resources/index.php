@@ -21,3 +21,4 @@ Latency Optimization The only way to do great work is to love what you do. CI/CD
 Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Data Pipeline Virtual Machines Automation Cache Invalidation IoT Backend Cloud Server Response WebSockets Framework React Predictive Analytics
 Pull Request Predictive Analytics Event Sourcing Kafka IoT
 RabbitMQ Edge Computing JavaScript Performance Do what you love and the money will follow. Latency Optimization Docker Content Delivery Network Database Indexing Backend Difficult roads often lead to beautiful destinations. WebSockets
+Dream big and dare to fail. Data Pipeline API Gateway Cloud Functions Deployment Docker
