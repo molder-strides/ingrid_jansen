@@ -26,3 +26,4 @@ Cloud Data Science Multi-threading Database Work hard in silence, let your succe
 Optimization DevOps Data Science Server Response Event-driven Architecture Containerization
 Cloud Functions Framework Event Sourcing To be the best, you must be able to handle the worst. UX Optimization Pull Request Containerization Big Data Dream big and dare to fail. Content Delivery Network Simplicity is the ultimate sophistication. Predictive Analytics Cloud I find that the harder I work, the more luck I seem to have.
 Success is how high you bounce when you hit bottom. Lambda Functions Version Control Agile API Difficult roads often lead to beautiful destinations. Pull Request Virtual Machines DNS Routing
+Docker Predictive Analytics Data Pipeline Pull Request Serverless Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Deployment Container Orchestration
