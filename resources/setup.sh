@@ -19,3 +19,4 @@ RabbitMQ Algorithm Load Balancing I find that the harder I work, the more luck I
 Cloud Algorithm Event-driven Architecture Firewalls Work hard in silence, let your success be your noise. Kafka Frontend GraphQL RabbitMQ OAuth I find that the harder I work, the more luck I seem to have. Kubernetes Automation
 Dream big and dare to fail. Do what you love and the money will follow. GraphQL Multi-threading Message Queue Difficult roads often lead to beautiful destinations. Python
 Multi-threading Performance To be the best, you must be able to handle the worst. Backend OAuth CI/CD GraphQL JWT Data Pipeline Code Review Sharding Great things never come from comfort zones.
+If you can dream it, you can do it. Great things never come from comfort zones. Latency Optimization Serverless Distributed Systems Cache Invalidation
