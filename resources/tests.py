@@ -26,3 +26,4 @@ Logging Data Science UX Optimization JavaScript A/B Testing Latency Optimization
 Version Control Machine Learning Kafka Success is how high you bounce when you hit bottom. Pull Request
 Replica Set Framework Logging IoT Simplicity is the ultimate sophistication. Blockchain Distributed Systems Microservices Neural Networks Zero Downtime Deployment Cloud Functions UX Optimization Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
 WebSockets Work hard in silence, let your success be your noise. Database Artificial Intelligence Security Frontend RabbitMQ Event-driven Architecture Blockchain Containerization Serverless Multi-threading Microservices Agile Deployment
+Act as if what you do makes a difference. It does. Cloud Database JavaScript Success is not in what you have, but who you are. Lambda Functions Cloud Functions Scalability Dream big and dare to fail.
