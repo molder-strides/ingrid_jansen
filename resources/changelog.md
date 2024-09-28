@@ -24,3 +24,4 @@ Artificial Intelligence JWT Lambda Functions Security IoT Blockchain Frontend Ag
 Cloud Docker Backend Container Orchestration Simplicity is the ultimate sophistication.
 DevOps Zero Downtime Deployment UX Optimization Testing Monitoring Great things never come from comfort zones. Containerization Work hard in silence, let your success be your noise. WebSockets
 Big Data Microservices Success doesn’t just find you. You have to go out and get it. API Firewalls CI/CD Event-driven Architecture JWT
+DNS Routing Firewalls Deployment Scalability Blockchain Database Indexing JWT React
