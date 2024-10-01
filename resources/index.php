@@ -19,3 +19,4 @@ Edge Computing Event Sourcing Framework Python Kubernetes Logging Pull Request S
 Sharding Container Orchestration Great things never come from comfort zones. Docker Content Delivery Network Data Pipeline NLP Frontend Happiness is not something ready made. It comes from your own actions. Code Review Data Science Firewalls Stay hungry, stay foolish.
 Latency Optimization The only way to do great work is to love what you do. CI/CD Deployment OAuth Simplicity is the ultimate sophistication. Content Delivery Network
 Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Data Pipeline Virtual Machines Automation Cache Invalidation IoT Backend Cloud Server Response WebSockets Framework React Predictive Analytics
+Pull Request Predictive Analytics Event Sourcing Kafka IoT
