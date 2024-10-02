@@ -20,3 +20,4 @@ NLP Event-driven Architecture Cache Invalidation Container Orchestration Kafka I
 Predictive Analytics DNS Routing UX Optimization Container Orchestration Agile Data Pipeline A/B Testing Opportunities don't happen. You create them. Content Delivery Network
 Optimization Zero Downtime Deployment Pull Request UX Optimization Great things never come from comfort zones. GraphQL Replica Set Edge Computing DNS Routing Content Delivery Network
 Python Lambda Functions If you can dream it, you can do it. Do what you love and the money will follow. Docker Database Indexing Event-driven Architecture Cloud Functions Machine Learning IoT Quantum Computing To be the best, you must be able to handle the worst.
+Success is how high you bounce when you hit bottom. Pull Request Kafka Firewalls Act as if what you do makes a difference. It does. Code Review Framework I find that the harder I work, the more luck I seem to have. Lambda Functions Data Pipeline Zero Downtime Deployment
