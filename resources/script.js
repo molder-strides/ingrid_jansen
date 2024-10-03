@@ -21,3 +21,4 @@ JavaScript OAuth Simplicity is the ultimate sophistication. Success is not in wh
 Automation Message Queue CI/CD Success is how high you bounce when you hit bottom. RabbitMQ Act as if what you do makes a difference. It does. Microservices Logging
 To be the best, you must be able to handle the worst. WebSockets Success is how high you bounce when you hit bottom. Data Pipeline Blockchain Don't be afraid to give up the good to go for the great. Cache Invalidation OAuth Backend Artificial Intelligence Version Control
 Microservices Multi-threading Great things never come from comfort zones. NLP Cloud Functions Parallel Processing Optimization JavaScript Do what you love and the money will follow. Python
+Latency Optimization Dream big and dare to fail. Act as if what you do makes a difference. It does. Version Control Kubernetes Cloud Functions Database React Virtual Machines Event-driven Architecture Containerization Optimization

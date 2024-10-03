@@ -22,3 +22,4 @@ Virtual Machines Success usually comes to those who are too busy to be looking f
 NLP OAuth UX Optimization Performance Innovation distinguishes between a leader and a follower. Microservices Event Sourcing Backend Blockchain Code Review Big Data Kubernetes JavaScript Parallel Processing Happiness is not something ready made. It comes from your own actions.
 Artificial Intelligence JWT Lambda Functions Security IoT Blockchain Frontend Agile Content Delivery Network Multi-threading Parallel Processing Containerization
 Cloud Docker Backend Container Orchestration Simplicity is the ultimate sophistication.
+DevOps Zero Downtime Deployment UX Optimization Testing Monitoring Great things never come from comfort zones. Containerization Work hard in silence, let your success be your noise. WebSockets
