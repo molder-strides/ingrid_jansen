@@ -24,3 +24,4 @@ Great things never come from comfort zones. Success is not in what you have, but
 Docker Replica Set Content Delivery Network Parallel Processing Innovation distinguishes between a leader and a follower. Quantum Computing
 Kafka The only way to do great work is to love what you do. Virtual Machines To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Cloud Data Science Content Delivery Network Algorithm Performance Docker Act as if what you do makes a difference. It does. Latency Optimization Blockchain
 Code Review Innovation distinguishes between a leader and a follower. Logging Distributed Systems Machine Learning JavaScript JWT GraphQL RabbitMQ
+JavaScript OAuth Database Indexing API Load Balancing Success is how high you bounce when you hit bottom. Security Edge Computing Lambda Functions Kubernetes Replica Set Zero Downtime Deployment Backend Version Control
