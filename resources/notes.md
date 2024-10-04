@@ -19,3 +19,4 @@ Kubernetes Content Delivery Network Frontend Docker Agile Load Testing Difficult
 NLP Event-driven Architecture Cache Invalidation Container Orchestration Kafka If you can dream it, you can do it. Kubernetes Work hard in silence, let your success be your noise. Do what you love and the money will follow. Event Sourcing
 Predictive Analytics DNS Routing UX Optimization Container Orchestration Agile Data Pipeline A/B Testing Opportunities don't happen. You create them. Content Delivery Network
 Optimization Zero Downtime Deployment Pull Request UX Optimization Great things never come from comfort zones. GraphQL Replica Set Edge Computing DNS Routing Content Delivery Network
+Python Lambda Functions If you can dream it, you can do it. Do what you love and the money will follow. Docker Database Indexing Event-driven Architecture Cloud Functions Machine Learning IoT Quantum Computing To be the best, you must be able to handle the worst.
