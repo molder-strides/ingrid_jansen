@@ -21,3 +21,4 @@ WebSockets Serverless Kafka Opportunities don't happen. You create them. Machine
 Virtual Machines Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Opportunities don't happen. You create them. Deployment Content Delivery Network Frontend Parallel Processing Big Data Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Logging OAuth
 NLP OAuth UX Optimization Performance Innovation distinguishes between a leader and a follower. Microservices Event Sourcing Backend Blockchain Code Review Big Data Kubernetes JavaScript Parallel Processing Happiness is not something ready made. It comes from your own actions.
 Artificial Intelligence JWT Lambda Functions Security IoT Blockchain Frontend Agile Content Delivery Network Multi-threading Parallel Processing Containerization
+Cloud Docker Backend Container Orchestration Simplicity is the ultimate sophistication.
