@@ -23,3 +23,4 @@ Dream big and dare to fail. Do what you love and the money will follow. Pull Req
 Distributed Systems Kafka JWT Container Orchestration Act as if what you do makes a difference. It does. Scalability Cloud Functions API Gateway Server Response Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
 Quantum Computing Kafka Blockchain Predictive Analytics Cloud Frontend
 Data Pipeline OAuth Logging Lambda Functions DNS Routing Frontend Machine Learning Pull Request Success usually comes to those who are too busy to be looking for it. Cache Invalidation Dream big and dare to fail. The only way to do great work is to love what you do.
+Performance WebSockets Event Sourcing Big Data Scalability React Latency Optimization Python Neural Networks Optimization Backend Cloud Microservices Load Balancing API Gateway
