@@ -20,3 +20,4 @@ Content Delivery Network API Gateway The only way to do great work is to love wh
 Stay hungry, stay foolish. NLP Monitoring Load Balancing API Cloud Functions Data Science Agile
 Parallel Processing Python Do what you love and the money will follow. DNS Routing Lambda Functions
 Success usually comes to those who are too busy to be looking for it. Predictive Analytics UX Optimization Data Pipeline Stay hungry, stay foolish. The only way to do great work is to love what you do. Replica Set Great things never come from comfort zones. Code Review Security Database Indexing A/B Testing
+Security Deployment Performance Act as if what you do makes a difference. It does. Pull Request OAuth CI/CD Distributed Systems DevOps Testing Load Testing
