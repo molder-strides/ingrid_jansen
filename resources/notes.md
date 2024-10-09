@@ -18,3 +18,4 @@ Scalability Cloud Functions IoT Framework Event-driven Architecture Happiness is
 Kubernetes Content Delivery Network Frontend Docker Agile Load Testing Difficult roads often lead to beautiful destinations. Serverless Success is not in what you have, but who you are.
 NLP Event-driven Architecture Cache Invalidation Container Orchestration Kafka If you can dream it, you can do it. Kubernetes Work hard in silence, let your success be your noise. Do what you love and the money will follow. Event Sourcing
 Predictive Analytics DNS Routing UX Optimization Container Orchestration Agile Data Pipeline A/B Testing Opportunities don't happen. You create them. Content Delivery Network
+Optimization Zero Downtime Deployment Pull Request UX Optimization Great things never come from comfort zones. GraphQL Replica Set Edge Computing DNS Routing Content Delivery Network
