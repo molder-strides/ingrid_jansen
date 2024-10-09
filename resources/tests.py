@@ -25,3 +25,4 @@ Replica Set Innovation distinguishes between a leader and a follower. Microservi
 Logging Data Science UX Optimization JavaScript A/B Testing Latency Optimization Success is not in what you have, but who you are. Cloud Functions Cloud Database Serverless Python Event Sourcing Code Review
 Version Control Machine Learning Kafka Success is how high you bounce when you hit bottom. Pull Request
 Replica Set Framework Logging IoT Simplicity is the ultimate sophistication. Blockchain Distributed Systems Microservices Neural Networks Zero Downtime Deployment Cloud Functions UX Optimization Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
+WebSockets Work hard in silence, let your success be your noise. Database Artificial Intelligence Security Frontend RabbitMQ Event-driven Architecture Blockchain Containerization Serverless Multi-threading Microservices Agile Deployment
