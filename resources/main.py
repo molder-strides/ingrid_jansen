@@ -25,3 +25,4 @@ Scalability Opportunities don't happen. You create them. A/B Testing Sharding Ac
 Version Control Dream big and dare to fail. Frontend Parallel Processing Virtual Machines UX Optimization WebSockets Security Automation A/B Testing Python Firewalls Containerization Server Response Sharding
 Cloud RabbitMQ Database Indexing Message Queue Automation Opportunities don't happen. You create them.
 Dream big and dare to fail. Database Algorithm DevOps Backend React UX Optimization Frontend Neural Networks Docker Success doesn’t just find you. You have to go out and get it.
+Serverless Cache Invalidation Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. WebSockets Database JWT Edge Computing
