@@ -15,3 +15,4 @@ The only way to do great work is to love what you do. Serverless Data Pipeline S
 Data Pipeline Success is how high you bounce when you hit bottom. Kubernetes Event-driven Architecture Server Response Serverless Predictive Analytics
 Data Pipeline Server Response Predictive Analytics RabbitMQ Don't be afraid to give up the good to go for the great. Framework CI/CD Cloud Monitoring
 Parallel Processing Replica Set Big Data API React Message Queue Zero Downtime Deployment
+Data Pipeline Content Delivery Network Load Balancing Cloud Zero Downtime Deployment Optimization Framework Docker Algorithm Security Containerization Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. CI/CD
