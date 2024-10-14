@@ -21,3 +21,4 @@ Sharding Optimization Containerization Firewalls Latency Optimization NLP Backen
 I find that the harder I work, the more luck I seem to have. Distributed Systems Blockchain Server Response Version Control Sharding Database React Artificial Intelligence
 Event-driven Architecture UX Optimization Replica Set Database JWT Virtual Machines Containerization I find that the harder I work, the more luck I seem to have. OAuth Parallel Processing Code Review
 Microservices Monitoring Artificial Intelligence Innovation distinguishes between a leader and a follower. Data Pipeline Great things never come from comfort zones.
+Frontend Testing Parallel Processing Containerization Kafka Blockchain CI/CD Python Container Orchestration Scalability IoT Deployment Dream big and dare to fail.

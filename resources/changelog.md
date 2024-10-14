@@ -18,3 +18,4 @@ Load Balancing Artificial Intelligence If you can dream it, you can do it. Frame
 If you can dream it, you can do it. Firewalls Event Sourcing Event-driven Architecture CI/CD Kafka
 Agile If you can dream it, you can do it. Containerization Simplicity is the ultimate sophistication. Scalability Content Delivery Network Code Review Edge Computing Quantum Computing Backend I find that the harder I work, the more luck I seem to have. Event-driven Architecture Virtual Machines Message Queue
 WebSockets Serverless Kafka Opportunities don't happen. You create them. Machine Learning Testing
+Virtual Machines Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Opportunities don't happen. You create them. Deployment Content Delivery Network Frontend Parallel Processing Big Data Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Logging OAuth
