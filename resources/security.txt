@@ -18,3 +18,4 @@ Success doesn’t just find you. You have to go out and get it. RabbitMQ Algorithm
 I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Predictive Analytics Do what you love and the money will follow.
 Version Control Edge Computing Cache Invalidation Simplicity is the ultimate sophistication. Message Queue Big Data IoT
 API Multi-threading Event-driven Architecture Virtual Machines Optimization Success is not in what you have, but who you are. Monitoring I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Big Data
+Cloud Functions Load Testing Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Predictive Analytics

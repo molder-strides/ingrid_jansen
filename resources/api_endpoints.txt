@@ -22,3 +22,4 @@ The only way to do great work is to love what you do. Dream big and dare to fail
 Work hard in silence, let your success be your noise. Code Review Pull Request Agile Content Delivery Network Logging
 Event Sourcing RabbitMQ Lambda Functions Load Testing Algorithm Distributed Systems IoT
 JavaScript Security OAuth If you can dream it, you can do it. CI/CD API Automation Algorithm Backend Success is not in what you have, but who you are. Big Data Data Science JWT
+Sharding Cache Invalidation Event Sourcing The only way to do great work is to love what you do. Database Indexing Zero Downtime Deployment Containerization Performance CI/CD Event-driven Architecture Deployment Do what you love and the money will follow. Data Pipeline Success usually comes to those who are too busy to be looking for it. Quantum Computing
