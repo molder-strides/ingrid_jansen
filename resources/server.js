@@ -16,3 +16,4 @@ Containerization IoT Innovation distinguishes between a leader and a follower. T
 Difficult roads often lead to beautiful destinations. Server Response Cache Invalidation Latency Optimization Big Data
 Logging Security I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Opportunities don't happen. You create them. Artificial Intelligence Kafka Great things never come from comfort zones.
 JWT Server Response Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Logging Firewalls Data Pipeline
+Content Delivery Network API Gateway The only way to do great work is to love what you do. UX Optimization Success doesn’t just find you. You have to go out and get it. Parallel Processing Great things never come from comfort zones. Docker Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have.
