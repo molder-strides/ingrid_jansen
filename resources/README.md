@@ -17,3 +17,4 @@ Virtual Machines Load Testing Algorithm Database Indexing Testing Performance Ba
 Backend Testing Container Orchestration API Gateway Containerization
 CI/CD Monitoring The only way to do great work is to love what you do. Kafka GraphQL Virtual Machines
 API Zero Downtime Deployment Performance API Gateway To be the best, you must be able to handle the worst. Load Testing Monitoring Content Delivery Network Quantum Computing Docker WebSockets The only way to do great work is to love what you do.
+Agile Version Control Replica Set Opportunities don't happen. You create them. Docker
