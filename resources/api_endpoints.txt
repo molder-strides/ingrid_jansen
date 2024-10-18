@@ -20,3 +20,4 @@ Server Response Serverless Kubernetes Performance Database Indexing Sharding Agi
 Firewalls Happiness is not something ready made. It comes from your own actions. Kubernetes Simplicity is the ultimate sophistication. IoT UX Optimization Deployment Data Pipeline
 The only way to do great work is to love what you do. Dream big and dare to fail. Load Balancing Containerization Cloud Functions Container Orchestration Backend Agile Cache Invalidation Kubernetes Blockchain Multi-threading Database Indexing Algorithm
 Work hard in silence, let your success be your noise. Code Review Pull Request Agile Content Delivery Network Logging
+Event Sourcing RabbitMQ Lambda Functions Load Testing Algorithm Distributed Systems IoT
