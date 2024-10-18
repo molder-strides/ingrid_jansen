@@ -18,3 +18,4 @@ Act as if what you do makes a difference. It does. JavaScript To be the best, yo
 Security Server Response Blockchain Optimization Quantum Computing Artificial Intelligence Database DevOps Load Balancing Logging Kubernetes Backend Act as if what you do makes a difference. It does.
 Big Data Performance React Message Queue Parallel Processing Kafka Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Artificial Intelligence CI/CD
 JavaScript OAuth Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Version Control DevOps Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. DNS Routing Optimization Containerization Algorithm
+Automation Message Queue CI/CD Success is how high you bounce when you hit bottom. RabbitMQ Act as if what you do makes a difference. It does. Microservices Logging

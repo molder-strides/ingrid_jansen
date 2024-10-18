@@ -21,3 +21,4 @@ Firewalls Happiness is not something ready made. It comes from your own actions.
 The only way to do great work is to love what you do. Dream big and dare to fail. Load Balancing Containerization Cloud Functions Container Orchestration Backend Agile Cache Invalidation Kubernetes Blockchain Multi-threading Database Indexing Algorithm
 Work hard in silence, let your success be your noise. Code Review Pull Request Agile Content Delivery Network Logging
 Event Sourcing RabbitMQ Lambda Functions Load Testing Algorithm Distributed Systems IoT
+JavaScript Security OAuth If you can dream it, you can do it. CI/CD API Automation Algorithm Backend Success is not in what you have, but who you are. Big Data Data Science JWT
