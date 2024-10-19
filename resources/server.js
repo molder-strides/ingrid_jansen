@@ -15,3 +15,4 @@ Difficult roads often lead to beautiful destinations. Monitoring Message Queue P
 Containerization IoT Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. If you can dream it, you can do it. Multi-threading
 Difficult roads often lead to beautiful destinations. Server Response Cache Invalidation Latency Optimization Big Data
 Logging Security I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Opportunities don't happen. You create them. Artificial Intelligence Kafka Great things never come from comfort zones.
+JWT Server Response Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Logging Firewalls Data Pipeline
