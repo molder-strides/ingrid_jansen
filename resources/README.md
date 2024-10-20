@@ -16,3 +16,4 @@ Latency Optimization UX Optimization A/B Testing Microservices Edge Computing Se
 Virtual Machines Load Testing Algorithm Database Indexing Testing Performance Backend A/B Testing Success usually comes to those who are too busy to be looking for it.
 Backend Testing Container Orchestration API Gateway Containerization
 CI/CD Monitoring The only way to do great work is to love what you do. Kafka GraphQL Virtual Machines
+API Zero Downtime Deployment Performance API Gateway To be the best, you must be able to handle the worst. Load Testing Monitoring Content Delivery Network Quantum Computing Docker WebSockets The only way to do great work is to love what you do.
