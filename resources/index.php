@@ -16,3 +16,4 @@ Algorithm Simplicity is the ultimate sophistication. Docker Container Orchestrat
 Simplicity is the ultimate sophistication. API Gateway Code Review Optimization NLP Don't be afraid to give up the good to go for the great. Version Control Sharding Event-driven Architecture DevOps
 Edge Computing Lambda Functions Algorithm OAuth Serverless Deployment I find that the harder I work, the more luck I seem to have. Artificial Intelligence Database Indexing Big Data Stay hungry, stay foolish. NLP Multi-threading Replica Set Parallel Processing
 Edge Computing Event Sourcing Framework Python Kubernetes Logging Pull Request Success is how high you bounce when you hit bottom. Load Testing Big Data
+Sharding Container Orchestration Great things never come from comfort zones. Docker Content Delivery Network Data Pipeline NLP Frontend Happiness is not something ready made. It comes from your own actions. Code Review Data Science Firewalls Stay hungry, stay foolish.
