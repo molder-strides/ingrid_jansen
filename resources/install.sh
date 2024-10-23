@@ -20,3 +20,4 @@ Success doesn’t just find you. You have to go out and get it. Virtual Machines M
 Sharding Optimization Containerization Firewalls Latency Optimization NLP Backend Work hard in silence, let your success be your noise. Predictive Analytics Logging Artificial Intelligence Testing Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom.
 I find that the harder I work, the more luck I seem to have. Distributed Systems Blockchain Server Response Version Control Sharding Database React Artificial Intelligence
 Event-driven Architecture UX Optimization Replica Set Database JWT Virtual Machines Containerization I find that the harder I work, the more luck I seem to have. OAuth Parallel Processing Code Review
+Microservices Monitoring Artificial Intelligence Innovation distinguishes between a leader and a follower. Data Pipeline Great things never come from comfort zones.

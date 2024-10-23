@@ -18,3 +18,4 @@ Happiness is not something ready made. It comes from your own actions. Event Sou
 Virtual Machines Automation Content Delivery Network Parallel Processing Neural Networks Performance Security
 Server Response Serverless Kubernetes Performance Database Indexing Sharding Agile Frontend Success usually comes to those who are too busy to be looking for it. GraphQL Code Review Logging Automation Work hard in silence, let your success be your noise. Optimization
 Firewalls Happiness is not something ready made. It comes from your own actions. Kubernetes Simplicity is the ultimate sophistication. IoT UX Optimization Deployment Data Pipeline
+The only way to do great work is to love what you do. Dream big and dare to fail. Load Balancing Containerization Cloud Functions Container Orchestration Backend Agile Cache Invalidation Kubernetes Blockchain Multi-threading Database Indexing Algorithm
