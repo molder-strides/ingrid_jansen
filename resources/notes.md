@@ -15,3 +15,4 @@ Firewalls Scalability JavaScript Database The only way to do great work is to lo
 Data Science Zero Downtime Deployment DNS Routing Deployment Parallel Processing Dream big and dare to fail. Python React Big Data OAuth
 JavaScript Data Science Cache Invalidation JWT Sharding Python Load Testing Event Sourcing Scalability Machine Learning OAuth To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have.
 Scalability Cloud Functions IoT Framework Event-driven Architecture Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Backend
+Kubernetes Content Delivery Network Frontend Docker Agile Load Testing Difficult roads often lead to beautiful destinations. Serverless Success is not in what you have, but who you are.
