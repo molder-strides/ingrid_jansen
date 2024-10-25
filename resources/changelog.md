@@ -16,3 +16,4 @@ Event Sourcing Cloud Functions Big Data Scalability Lambda Functions Artificial 
 Success usually comes to those who are too busy to be looking for it. IoT Code Review Performance Database Do what you love and the money will follow.
 Load Balancing Artificial Intelligence If you can dream it, you can do it. Framework Don't be afraid to give up the good to go for the great. Big Data Edge Computing Backend Predictive Analytics Machine Learning Distributed Systems
 If you can dream it, you can do it. Firewalls Event Sourcing Event-driven Architecture CI/CD Kafka
+Agile If you can dream it, you can do it. Containerization Simplicity is the ultimate sophistication. Scalability Content Delivery Network Code Review Edge Computing Quantum Computing Backend I find that the harder I work, the more luck I seem to have. Event-driven Architecture Virtual Machines Message Queue
