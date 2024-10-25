@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Algorithm Event So
 JWT Monitoring Sharding Containerization Artificial Intelligence Logging Act as if what you do makes a difference. It does. Event-driven Architecture
 GraphQL Cloud Artificial Intelligence Act as if what you do makes a difference. It does. Containerization
 Big Data API Gateway Machine Learning Code Review Security I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it.
+Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. GraphQL Happiness is not something ready made. It comes from your own actions. Microservices Blockchain Cloud Replica Set CI/CD
