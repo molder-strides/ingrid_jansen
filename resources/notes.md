@@ -14,3 +14,4 @@ UX Optimization Opportunities don't happen. You create them. Neural Networks OAu
 Firewalls Scalability JavaScript Database The only way to do great work is to love what you do. Container Orchestration Simplicity is the ultimate sophistication. Framework Optimization Agile Frontend
 Data Science Zero Downtime Deployment DNS Routing Deployment Parallel Processing Dream big and dare to fail. Python React Big Data OAuth
 JavaScript Data Science Cache Invalidation JWT Sharding Python Load Testing Event Sourcing Scalability Machine Learning OAuth To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have.
+Scalability Cloud Functions IoT Framework Event-driven Architecture Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Backend
