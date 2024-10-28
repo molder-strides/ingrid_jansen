@@ -14,3 +14,4 @@ Latency Optimization Monitoring Optimization Success doesn’t just find you. You 
 Success doesn’t just find you. You have to go out and get it. Algorithm Event Sourcing Work hard in silence, let your success be your noise. Cloud Functions React
 JWT Monitoring Sharding Containerization Artificial Intelligence Logging Act as if what you do makes a difference. It does. Event-driven Architecture
 GraphQL Cloud Artificial Intelligence Act as if what you do makes a difference. It does. Containerization
+Big Data API Gateway Machine Learning Code Review Security I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it.
