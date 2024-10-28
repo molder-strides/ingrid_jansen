@@ -13,3 +13,4 @@ API Replica Set Data Pipeline Do what you love and the money will follow. UX Opt
 Event Sourcing Act as if what you do makes a difference. It does. JWT Optimization Firewalls Docker Latency Optimization If you can dream it, you can do it.
 Cloud Functions Agile To be the best, you must be able to handle the worst. Big Data Database Algorithm Logging WebSockets Virtual Machines
 Latency Optimization UX Optimization A/B Testing Microservices Edge Computing Server Response Monitoring Docker The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Neural Networks
+Virtual Machines Load Testing Algorithm Database Indexing Testing Performance Backend A/B Testing Success usually comes to those who are too busy to be looking for it.
