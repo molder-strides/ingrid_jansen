@@ -11,3 +11,4 @@ Success is how high you bounce when you hit bottom. Difficult roads often lead t
 To be the best, you must be able to handle the worst. Docker Container Orchestration Testing Scalability Firewalls I find that the harder I work, the more luck I seem to have. JWT Load Balancing Quantum Computing Lambda Functions OAuth Event Sourcing Virtual Machines RabbitMQ
 Quantum Computing UX Optimization Virtual Machines Machine Learning Do what you love and the money will follow. Docker Kubernetes Latency Optimization Containerization Optimization RabbitMQ Sharding Monitoring
 Deployment Simplicity is the ultimate sophistication. Zero Downtime Deployment Backend Great things never come from comfort zones. If you can dream it, you can do it. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Firewalls
+Machine Learning API Gateway Microservices Blockchain Testing

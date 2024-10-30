@@ -14,3 +14,4 @@ Automation Cloud Functions Predictive Analytics Difficult roads often lead to be
 Database Indexing CI/CD Load Testing Great things never come from comfort zones. UX Optimization JavaScript DevOps Predictive Analytics Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow.
 Event Sourcing Cloud Functions Big Data Scalability Lambda Functions Artificial Intelligence
 Success usually comes to those who are too busy to be looking for it. IoT Code Review Performance Database Do what you love and the money will follow.
+Load Balancing Artificial Intelligence If you can dream it, you can do it. Framework Don't be afraid to give up the good to go for the great. Big Data Edge Computing Backend Predictive Analytics Machine Learning Distributed Systems
