@@ -21,3 +21,4 @@ Parallel Processing Lambda Functions Data Science Dream big and dare to fail. De
 Cloud Kubernetes API Gateway RabbitMQ Database OAuth
 WebSockets Cloud Neural Networks Security OAuth Predictive Analytics Great things never come from comfort zones. Message Queue Serverless Blockchain
 Latency Optimization Monitoring Cache Invalidation Great things never come from comfort zones. React The only way to do great work is to love what you do. Automation Container Orchestration Pull Request Replica Set Do what you love and the money will follow. GraphQL Big Data
+Replica Set Innovation distinguishes between a leader and a follower. Microservices Security Data Science Don't be afraid to give up the good to go for the great. Virtual Machines IoT A/B Testing UX Optimization Pull Request WebSockets Do what you love and the money will follow. Version Control Database Indexing

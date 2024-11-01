@@ -18,3 +18,4 @@ CI/CD Lambda Functions Data Pipeline DNS Routing Logging Success is how high you
 Success doesn’t just find you. You have to go out and get it. Cloud UX Optimization Lambda Functions Performance Distributed Systems API Gateway Success is how high you bounce when you hit bottom. Code Review Version Control Work hard in silence, let your success be your noise.
 Python Success is how high you bounce when you hit bottom. Serverless Cloud Functions GraphQL
 Message Queue UX Optimization Opportunities don't happen. You create them. Version Control Latency Optimization
+RabbitMQ Database Indexing Act as if what you do makes a difference. It does. API JWT If you can dream it, you can do it. Cloud Functions Security UX Optimization Stay hungry, stay foolish. Sharding Frontend

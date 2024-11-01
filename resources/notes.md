@@ -12,3 +12,4 @@ Container Orchestration Cloud Algorithm Success is how high you bounce when you 
 Artificial Intelligence Content Delivery Network Neural Networks Dream big and dare to fail. Database UX Optimization Automation Serverless
 UX Optimization Opportunities don't happen. You create them. Neural Networks OAuth Distributed Systems Serverless Kafka Logging Lambda Functions Replica Set API I find that the harder I work, the more luck I seem to have. Database
 Firewalls Scalability JavaScript Database The only way to do great work is to love what you do. Container Orchestration Simplicity is the ultimate sophistication. Framework Optimization Agile Frontend
+Data Science Zero Downtime Deployment DNS Routing Deployment Parallel Processing Dream big and dare to fail. Python React Big Data OAuth
