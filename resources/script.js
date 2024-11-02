@@ -16,3 +16,4 @@ Great things never come from comfort zones. Opportunities don't happen. You crea
 The only way to do great work is to love what you do. Logging DNS Routing Neural Networks Machine Learning Parallel Processing
 Act as if what you do makes a difference. It does. JavaScript To be the best, you must be able to handle the worst. CI/CD Content Delivery Network Database Logging Cloud API Virtual Machines Frontend Machine Learning
 Security Server Response Blockchain Optimization Quantum Computing Artificial Intelligence Database DevOps Load Balancing Logging Kubernetes Backend Act as if what you do makes a difference. It does.
+Big Data Performance React Message Queue Parallel Processing Kafka Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Artificial Intelligence CI/CD

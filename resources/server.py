@@ -19,3 +19,4 @@ Load Testing Deployment Cloud Performance Pull Request I find that the harder I 
 Load Balancing Happiness is not something ready made. It comes from your own actions. NLP Load Testing Blockchain Docker
 Security Zero Downtime Deployment Automation If you can dream it, you can do it. Replica Set Python Data Pipeline Serverless Docker Monitoring GraphQL Multi-threading Success is not in what you have, but who you are. Firewalls Containerization
 Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Sharding Database Indexing Act as if what you do makes a difference. It does. Code Review Container Orchestration Data Pipeline Event-driven Architecture Load Balancing OAuth
+Framework I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Stay hungry, stay foolish. IoT
