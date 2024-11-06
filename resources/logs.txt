@@ -13,3 +13,4 @@ IoT Happiness is not something ready made. It comes from your own actions. Scala
 Microservices Message Queue Cache Invalidation Scalability The only way to do great work is to love what you do. Virtual Machines Load Balancing Multi-threading Neural Networks Testing Version Control
 The only way to do great work is to love what you do. Serverless Data Pipeline Stay hungry, stay foolish. Deployment Code Review Performance Success is not in what you have, but who you are. Replica Set Artificial Intelligence Success is how high you bounce when you hit bottom. Agile
 Data Pipeline Success is how high you bounce when you hit bottom. Kubernetes Event-driven Architecture Server Response Serverless Predictive Analytics
+Data Pipeline Server Response Predictive Analytics RabbitMQ Don't be afraid to give up the good to go for the great. Framework CI/CD Cloud Monitoring
