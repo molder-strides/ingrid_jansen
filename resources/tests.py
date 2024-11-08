@@ -20,3 +20,4 @@ I find that the harder I work, the more luck I seem to have. Cloud Functions Alg
 Parallel Processing Lambda Functions Data Science Dream big and dare to fail. DevOps Scalability Zero Downtime Deployment Pull Request Difficult roads often lead to beautiful destinations. Content Delivery Network Neural Networks Backend If you can dream it, you can do it. JWT Version Control
 Cloud Kubernetes API Gateway RabbitMQ Database OAuth
 WebSockets Cloud Neural Networks Security OAuth Predictive Analytics Great things never come from comfort zones. Message Queue Serverless Blockchain
+Latency Optimization Monitoring Cache Invalidation Great things never come from comfort zones. React The only way to do great work is to love what you do. Automation Container Orchestration Pull Request Replica Set Do what you love and the money will follow. GraphQL Big Data

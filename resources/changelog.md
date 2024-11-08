@@ -13,3 +13,4 @@ Pull Request Lambda Functions Act as if what you do makes a difference. It does.
 Automation Cloud Functions Predictive Analytics Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Data Science Multi-threading Python
 Database Indexing CI/CD Load Testing Great things never come from comfort zones. UX Optimization JavaScript DevOps Predictive Analytics Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow.
 Event Sourcing Cloud Functions Big Data Scalability Lambda Functions Artificial Intelligence
+Success usually comes to those who are too busy to be looking for it. IoT Code Review Performance Database Do what you love and the money will follow.
