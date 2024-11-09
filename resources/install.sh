@@ -16,3 +16,4 @@ Data Pipeline Scalability Data Science Load Balancing Stay hungry, stay foolish.
 Blockchain Message Queue Simplicity is the ultimate sophistication. WebSockets Difficult roads often lead to beautiful destinations. Deployment Security Optimization Don't be afraid to give up the good to go for the great. Event-driven Architecture Database NLP Cloud Functions
 Performance Content Delivery Network Docker Framework Virtual Machines JWT Agile
 Load Testing Parallel Processing Message Queue A/B Testing Firewalls UX Optimization
+Success doesn’t just find you. You have to go out and get it. Virtual Machines Multi-threading Quantum Computing Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Container Orchestration Load Testing Difficult roads often lead to beautiful destinations.
