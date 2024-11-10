@@ -12,3 +12,4 @@ Innovation distinguishes between a leader and a follower. Code Review Data Scien
 Zero Downtime Deployment Python Edge Computing Code Review IoT Act as if what you do makes a difference. It does. Kubernetes CI/CD To be the best, you must be able to handle the worst. Data Science Firewalls
 Latency Optimization Monitoring Optimization Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Do what you love and the money will follow. Kafka Great things never come from comfort zones. Backend Code Review JavaScript Replica Set Simplicity is the ultimate sophistication. Cache Invalidation
 Success doesn’t just find you. You have to go out and get it. Algorithm Event Sourcing Work hard in silence, let your success be your noise. Cloud Functions React
+JWT Monitoring Sharding Containerization Artificial Intelligence Logging Act as if what you do makes a difference. It does. Event-driven Architecture
