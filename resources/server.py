@@ -17,3 +17,4 @@ DevOps Content Delivery Network Cloud Functions Parallel Processing Replica Set 
 Security Backend API API Gateway Predictive Analytics Database
 Load Testing Deployment Cloud Performance Pull Request I find that the harder I work, the more luck I seem to have. Monitoring Machine Learning The only way to do great work is to love what you do. Content Delivery Network
 Load Balancing Happiness is not something ready made. It comes from your own actions. NLP Load Testing Blockchain Docker
+Security Zero Downtime Deployment Automation If you can dream it, you can do it. Replica Set Python Data Pipeline Serverless Docker Monitoring GraphQL Multi-threading Success is not in what you have, but who you are. Firewalls Containerization

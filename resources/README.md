@@ -9,3 +9,4 @@ Load Balancing OAuth Latency Optimization Innovation distinguishes between a lea
 Load Testing Agile Do what you love and the money will follow. CI/CD Latency Optimization To be the best, you must be able to handle the worst. Container Orchestration Lambda Functions Logging Parallel Processing Testing UX Optimization Cloud Load Balancing
 React Logging Edge Computing GraphQL Act as if what you do makes a difference. It does. Python Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Opportunities don't happen. You create them. Machine Learning Data Pipeline Firewalls Backend
 Artificial Intelligence OAuth Success is how high you bounce when you hit bottom. React CI/CD Distributed Systems Dream big and dare to fail. GraphQL Pull Request Python Performance
+API Replica Set Data Pipeline Do what you love and the money will follow. UX Optimization
