@@ -14,3 +14,4 @@ Great things never come from comfort zones. If you can dream it, you can do it. 
 API Docker Container Orchestration Multi-threading Monitoring Machine Learning
 I find that the harder I work, the more luck I seem to have. Pull Request Kafka Automation Kubernetes Latency Optimization Stay hungry, stay foolish. Event Sourcing
 Automation Do what you love and the money will follow. Blockchain Firewalls Cloud Quantum Computing Big Data React Logging IoT Pull Request Innovation distinguishes between a leader and a follower.
+Cache Invalidation Database Indexing RabbitMQ Artificial Intelligence DNS Routing Innovation distinguishes between a leader and a follower. NLP Microservices JavaScript Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Testing Quantum Computing
