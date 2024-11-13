@@ -18,3 +18,4 @@ IoT Testing JavaScript To be the best, you must be able to handle the worst. Sha
 API The only way to do great work is to love what you do. Cache Invalidation Deployment Pull Request Automation Message Queue
 I find that the harder I work, the more luck I seem to have. Cloud Functions Algorithm NLP Framework JavaScript Optimization
 Parallel Processing Lambda Functions Data Science Dream big and dare to fail. DevOps Scalability Zero Downtime Deployment Pull Request Difficult roads often lead to beautiful destinations. Content Delivery Network Neural Networks Backend If you can dream it, you can do it. JWT Version Control
+Cloud Kubernetes API Gateway RabbitMQ Database OAuth
