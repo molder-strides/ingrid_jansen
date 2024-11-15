@@ -15,3 +15,4 @@ Code Review Framework React Distributed Systems UX Optimization Difficult roads 
 Data Pipeline Scalability Data Science Load Balancing Stay hungry, stay foolish. Security Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Pull Request Replica Set Parallel Processing WebSockets
 Blockchain Message Queue Simplicity is the ultimate sophistication. WebSockets Difficult roads often lead to beautiful destinations. Deployment Security Optimization Don't be afraid to give up the good to go for the great. Event-driven Architecture Database NLP Cloud Functions
 Performance Content Delivery Network Docker Framework Virtual Machines JWT Agile
+Load Testing Parallel Processing Message Queue A/B Testing Firewalls UX Optimization
