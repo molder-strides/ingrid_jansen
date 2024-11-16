@@ -14,3 +14,4 @@ Happiness is not something ready made. It comes from your own actions. Server Re
 Automation Big Data Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Deployment RabbitMQ Firewalls Cloud Functions
 Act as if what you do makes a difference. It does. Container Orchestration Neural Networks WebSockets IoT Zero Downtime Deployment Optimization Agile Version Control NLP A/B Testing Cache Invalidation Kafka CI/CD Success usually comes to those who are too busy to be looking for it.
 RabbitMQ Microservices Monitoring Latency Optimization Event-driven Architecture
+Replica Set Quantum Computing Cache Invalidation The only way to do great work is to love what you do. Neural Networks Firewalls Kafka Content Delivery Network DNS Routing Opportunities don't happen. You create them. Machine Learning Containerization Lambda Functions Dream big and dare to fail.
