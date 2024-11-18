@@ -13,3 +13,4 @@ Event-driven Architecture Logging Simplicity is the ultimate sophistication. Mic
 Great things never come from comfort zones. If you can dream it, you can do it. Simplicity is the ultimate sophistication. Edge Computing The only way to do great work is to love what you do. Kafka Data Pipeline Content Delivery Network DevOps Scalability Agile Multi-threading Parallel Processing Database
 API Docker Container Orchestration Multi-threading Monitoring Machine Learning
 I find that the harder I work, the more luck I seem to have. Pull Request Kafka Automation Kubernetes Latency Optimization Stay hungry, stay foolish. Event Sourcing
+Automation Do what you love and the money will follow. Blockchain Firewalls Cloud Quantum Computing Big Data React Logging IoT Pull Request Innovation distinguishes between a leader and a follower.
