@@ -13,3 +13,4 @@ Agile GraphQL JWT Database WebSockets Multi-threading Containerization Sharding 
 Version Control Machine Learning Event-driven Architecture Big Data RabbitMQ DNS Routing Work hard in silence, let your success be your noise. A/B Testing Backend Dream big and dare to fail. API
 CI/CD Testing Data Pipeline Parallel Processing Success doesn’t just find you. You have to go out and get it. JWT Automation RabbitMQ JavaScript Cloud Functions
 Great things never come from comfort zones. Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Automation Artificial Intelligence API Gateway Optimization OAuth The only way to do great work is to love what you do. Kubernetes Zero Downtime Deployment If you can dream it, you can do it. Neural Networks
+The only way to do great work is to love what you do. Logging DNS Routing Neural Networks Machine Learning Parallel Processing
