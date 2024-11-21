@@ -10,3 +10,4 @@ Frontend Machine Learning Automation React Multi-threading Dream big and dare to
 Event-driven Architecture Innovation distinguishes between a leader and a follower. Automation Happiness is not something ready made. It comes from your own actions. Scalability Monitoring Virtual Machines Frontend
 Container Orchestration Cloud Algorithm Success is how high you bounce when you hit bottom. API Agile Dream big and dare to fail. Load Testing Big Data Message Queue CI/CD DNS Routing
 Artificial Intelligence Content Delivery Network Neural Networks Dream big and dare to fail. Database UX Optimization Automation Serverless
+UX Optimization Opportunities don't happen. You create them. Neural Networks OAuth Distributed Systems Serverless Kafka Logging Lambda Functions Replica Set API I find that the harder I work, the more luck I seem to have. Database
