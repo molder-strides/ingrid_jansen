@@ -11,3 +11,4 @@ Data Pipeline Happiness is not something ready made. It comes from your own acti
 Message Queue Pull Request Stay hungry, stay foolish. Sharding Machine Learning Framework Containerization Blockchain Logging
 Framework Innovation distinguishes between a leader and a follower. Security Success is how high you bounce when you hit bottom. Load Balancing Deployment Kafka Don't be afraid to give up the good to go for the great. GraphQL OAuth Code Review To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. IoT
 GraphQL Agile The only way to do great work is to love what you do. Multi-threading Latency Optimization DNS Routing
+Machine Learning Artificial Intelligence Pull Request Do what you love and the money will follow. Cloud Functions Code Review Monitoring GraphQL Blockchain Latency Optimization IoT Python Big Data Predictive Analytics

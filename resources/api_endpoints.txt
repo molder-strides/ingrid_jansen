@@ -10,3 +10,4 @@ Blockchain Distributed Systems Agile CI/CD Artificial Intelligence Optimization 
 Innovation distinguishes between a leader and a follower. Code Review Testing Difficult roads often lead to beautiful destinations. Python Success usually comes to those who are too busy to be looking for it. Microservices API Blockchain Data Science Sharding
 Cloud Container Orchestration The only way to do great work is to love what you do. Cloud Functions Firewalls JWT Artificial Intelligence React Act as if what you do makes a difference. It does.
 Simplicity is the ultimate sophistication. Data Pipeline Testing Python Docker DNS Routing JWT
+Dream big and dare to fail. Deployment Multi-threading Predictive Analytics Database Indexing Code Review To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. A/B Testing Optimization Great things never come from comfort zones. Automation Latency Optimization Cache Invalidation DNS Routing
