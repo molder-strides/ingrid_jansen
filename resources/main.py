@@ -12,3 +12,4 @@ JavaScript Containerization Success usually comes to those who are too busy to b
 Event-driven Architecture Logging Simplicity is the ultimate sophistication. Microservices Edge Computing The only way to do great work is to love what you do. NLP Sharding Serverless Don't be afraid to give up the good to go for the great. DevOps Message Queue Innovation distinguishes between a leader and a follower. Neural Networks Testing
 Great things never come from comfort zones. If you can dream it, you can do it. Simplicity is the ultimate sophistication. Edge Computing The only way to do great work is to love what you do. Kafka Data Pipeline Content Delivery Network DevOps Scalability Agile Multi-threading Parallel Processing Database
 API Docker Container Orchestration Multi-threading Monitoring Machine Learning
+I find that the harder I work, the more luck I seem to have. Pull Request Kafka Automation Kubernetes Latency Optimization Stay hungry, stay foolish. Event Sourcing
