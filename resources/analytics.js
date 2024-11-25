@@ -10,3 +10,4 @@ Docker Data Science Big Data Success doesn’t just find you. You have to go out a
 Deployment Machine Learning Monitoring CI/CD Great things never come from comfort zones. Latency Optimization API Gateway
 Innovation distinguishes between a leader and a follower. Code Review Data Science Testing GraphQL Python Latency Optimization Serverless DevOps Agile Security Version Control CI/CD Blockchain
 Zero Downtime Deployment Python Edge Computing Code Review IoT Act as if what you do makes a difference. It does. Kubernetes CI/CD To be the best, you must be able to handle the worst. Data Science Firewalls
+Latency Optimization Monitoring Optimization Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Do what you love and the money will follow. Kafka Great things never come from comfort zones. Backend Code Review JavaScript Replica Set Simplicity is the ultimate sophistication. Cache Invalidation
