@@ -12,3 +12,4 @@ Great things never come from comfort zones. Firewalls OAuth Zero Downtime Deploy
 Microservices React Kubernetes API Gateway Dream big and dare to fail. Cache Invalidation
 Happiness is not something ready made. It comes from your own actions. Server Response Pull Request Monitoring DevOps Deployment To be the best, you must be able to handle the worst. Data Science Quantum Computing
 Automation Big Data Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Deployment RabbitMQ Firewalls Cloud Functions
+Act as if what you do makes a difference. It does. Container Orchestration Neural Networks WebSockets IoT Zero Downtime Deployment Optimization Agile Version Control NLP A/B Testing Cache Invalidation Kafka CI/CD Success usually comes to those who are too busy to be looking for it.
