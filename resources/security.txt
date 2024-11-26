@@ -13,3 +13,4 @@ Success is not in what you have, but who you are. Great things never come from c
 Dream big and dare to fail. Virtual Machines Python Machine Learning Deployment Don't be afraid to give up the good to go for the great. Database Indexing
 Automation Multi-threading Frontend Innovation distinguishes between a leader and a follower. Event-driven Architecture Virtual Machines
 I find that the harder I work, the more luck I seem to have. Blockchain WebSockets Parallel Processing OAuth Innovation distinguishes between a leader and a follower. Data Pipeline
+IoT Python Backend Automation Algorithm Cloud Don't be afraid to give up the good to go for the great.
