@@ -9,3 +9,4 @@ Performance Docker Quantum Computing Difficult roads often lead to beautiful des
 Docker Data Science Big Data Success doesn’t just find you. You have to go out and get it. Monitoring WebSockets
 Deployment Machine Learning Monitoring CI/CD Great things never come from comfort zones. Latency Optimization API Gateway
 Innovation distinguishes between a leader and a follower. Code Review Data Science Testing GraphQL Python Latency Optimization Serverless DevOps Agile Security Version Control CI/CD Blockchain
+Zero Downtime Deployment Python Edge Computing Code Review IoT Act as if what you do makes a difference. It does. Kubernetes CI/CD To be the best, you must be able to handle the worst. Data Science Firewalls
