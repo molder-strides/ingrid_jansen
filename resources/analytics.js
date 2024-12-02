@@ -7,3 +7,4 @@ If you can dream it, you can do it. Agile Cache Invalidation Latency Optimizatio
 Big Data The only way to do great work is to love what you do. OAuth Opportunities don't happen. You create them. Server Response
 Performance Docker Quantum Computing Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. UX Optimization Innovation distinguishes between a leader and a follower. Backend Optimization Agile Server Response
 Docker Data Science Big Data Success doesn’t just find you. You have to go out and get it. Monitoring WebSockets
+Deployment Machine Learning Monitoring CI/CD Great things never come from comfort zones. Latency Optimization API Gateway
