@@ -7,3 +7,4 @@ Agile Frontend Load Balancing Parallel Processing Kubernetes Containerization Fr
 Act as if what you do makes a difference. It does. Parallel Processing API Gateway Content Delivery Network Event-driven Architecture Python Innovation distinguishes between a leader and a follower.
 Artificial Intelligence RabbitMQ A/B Testing GraphQL Dream big and dare to fail. Latency Optimization
 Frontend Machine Learning Automation React Multi-threading Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Predictive Analytics Simplicity is the ultimate sophistication. Framework Stay hungry, stay foolish. API Do what you love and the money will follow. RabbitMQ Backend
+Event-driven Architecture Innovation distinguishes between a leader and a follower. Automation Happiness is not something ready made. It comes from your own actions. Scalability Monitoring Virtual Machines Frontend
