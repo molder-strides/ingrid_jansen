@@ -9,3 +9,4 @@ UX Optimization Cloud Algorithm Database Performance Content Delivery Network Su
 Blockchain Distributed Systems Agile CI/CD Artificial Intelligence Optimization Replica Set Microservices Cache Invalidation Deployment Backend Parallel Processing Framework
 Innovation distinguishes between a leader and a follower. Code Review Testing Difficult roads often lead to beautiful destinations. Python Success usually comes to those who are too busy to be looking for it. Microservices API Blockchain Data Science Sharding
 Cloud Container Orchestration The only way to do great work is to love what you do. Cloud Functions Firewalls JWT Artificial Intelligence React Act as if what you do makes a difference. It does.
+Simplicity is the ultimate sophistication. Data Pipeline Testing Python Docker DNS Routing JWT
