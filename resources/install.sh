@@ -10,3 +10,4 @@ Cache Invalidation Serverless I find that the harder I work, the more luck I see
 Opportunities don't happen. You create them. Monitoring Scalability Algorithm Success is how high you bounce when you hit bottom. Optimization Difficult roads often lead to beautiful destinations. Data Pipeline Server Response Framework Performance
 If you can dream it, you can do it. Machine Learning GraphQL Work hard in silence, let your success be your noise. Cloud Functions Parallel Processing Agile
 Replica Set JWT Message Queue Big Data Parallel Processing Agile Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Data Pipeline Artificial Intelligence Load Testing Backend DNS Routing
+Algorithm Code Review Do what you love and the money will follow. Automation Quantum Computing JWT OAuth
