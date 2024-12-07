@@ -11,3 +11,4 @@ RabbitMQ Difficult roads often lead to beautiful destinations. Innovation distin
 React Server Response Kafka Innovation distinguishes between a leader and a follower. Quantum Computing Act as if what you do makes a difference. It does. NLP Message Queue
 Act as if what you do makes a difference. It does. Kubernetes Docker Microservices Event Sourcing Automation Innovation distinguishes between a leader and a follower. RabbitMQ Happiness is not something ready made. It comes from your own actions.
 Artificial Intelligence API Gateway Success usually comes to those who are too busy to be looking for it. Multi-threading Performance Do what you love and the money will follow. Message Queue
+To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Kubernetes Deployment Success is how high you bounce when you hit bottom.
