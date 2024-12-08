@@ -9,3 +9,4 @@ Success doesn’t just find you. You have to go out and get it. React Parallel Pro
 Optimization Scalability Container Orchestration Happiness is not something ready made. It comes from your own actions. Python Message Queue Pull Request Blockchain Framework
 Docker IoT Database Indexing Load Testing Zero Downtime Deployment Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions.
 Agile Latency Optimization Python WebSockets Artificial Intelligence
+DevOps Kubernetes Database Indexing Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Firewalls OAuth Stay hungry, stay foolish. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Code Review Replica Set API Gateway
