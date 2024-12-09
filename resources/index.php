@@ -8,3 +8,4 @@ Cloud Backend Dream big and dare to fail. Content Delivery Network The only way 
 Success doesn’t just find you. You have to go out and get it. React Parallel Processing Opportunities don't happen. You create them. Agile
 Optimization Scalability Container Orchestration Happiness is not something ready made. It comes from your own actions. Python Message Queue Pull Request Blockchain Framework
 Docker IoT Database Indexing Load Testing Zero Downtime Deployment Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions.
+Agile Latency Optimization Python WebSockets Artificial Intelligence
