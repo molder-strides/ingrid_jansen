@@ -5,3 +5,4 @@ DevOps I find that the harder I work, the more luck I seem to have. API Gateway 
 Serverless Database Indexing Data Pipeline Parallel Processing Code Review IoT I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Cache Invalidation Version Control CI/CD
 If you can dream it, you can do it. Agile Cache Invalidation Latency Optimization Optimization
 Big Data The only way to do great work is to love what you do. OAuth Opportunities don't happen. You create them. Server Response
+Performance Docker Quantum Computing Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. UX Optimization Innovation distinguishes between a leader and a follower. Backend Optimization Agile Server Response

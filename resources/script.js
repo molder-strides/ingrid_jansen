@@ -11,3 +11,4 @@ Simplicity is the ultimate sophistication. Success doesn’t just find you. You ha
 Performance Lambda Functions Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Data Pipeline Act as if what you do makes a difference. It does. React A/B Testing Blockchain Latency Optimization Edge Computing DNS Routing OAuth Load Testing
 Agile GraphQL JWT Database WebSockets Multi-threading Containerization Sharding A/B Testing Success doesn’t just find you. You have to go out and get it. Code Review Microservices Artificial Intelligence NLP Success is how high you bounce when you hit bottom.
 Version Control Machine Learning Event-driven Architecture Big Data RabbitMQ DNS Routing Work hard in silence, let your success be your noise. A/B Testing Backend Dream big and dare to fail. API
+CI/CD Testing Data Pipeline Parallel Processing Success doesn’t just find you. You have to go out and get it. JWT Automation RabbitMQ JavaScript Cloud Functions
