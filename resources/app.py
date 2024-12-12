@@ -9,3 +9,4 @@ Dream big and dare to fail. Latency Optimization DNS Routing Zero Downtime Deplo
 Stay hungry, stay foolish. Automation API Dream big and dare to fail. Don't be afraid to give up the good to go for the great.
 Data Pipeline Happiness is not something ready made. It comes from your own actions. JavaScript Python Optimization Message Queue GraphQL Version Control I find that the harder I work, the more luck I seem to have.
 Message Queue Pull Request Stay hungry, stay foolish. Sharding Machine Learning Framework Containerization Blockchain Logging
+Framework Innovation distinguishes between a leader and a follower. Security Success is how high you bounce when you hit bottom. Load Balancing Deployment Kafka Don't be afraid to give up the good to go for the great. GraphQL OAuth Code Review To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. IoT
