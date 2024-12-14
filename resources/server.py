@@ -14,3 +14,4 @@ Pull Request Work hard in silence, let your success be your noise. Content Deliv
 Microservices Event Sourcing OAuth Kubernetes To be the best, you must be able to handle the worst.
 To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. IoT Load Testing JWT
 DevOps Content Delivery Network Cloud Functions Parallel Processing Replica Set React Machine Learning Pull Request
+Security Backend API API Gateway Predictive Analytics Database
