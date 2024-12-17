@@ -8,3 +8,4 @@ Success is not in what you have, but who you are. Replica Set Innovation disting
 Frontend Code Review Parallel Processing Deployment Zero Downtime Deployment IoT Kafka JavaScript Python Predictive Analytics Cache Invalidation Replica Set Great things never come from comfort zones. DevOps
 Cache Invalidation Serverless I find that the harder I work, the more luck I seem to have. Parallel Processing Pull Request
 Opportunities don't happen. You create them. Monitoring Scalability Algorithm Success is how high you bounce when you hit bottom. Optimization Difficult roads often lead to beautiful destinations. Data Pipeline Server Response Framework Performance
+If you can dream it, you can do it. Machine Learning GraphQL Work hard in silence, let your success be your noise. Cloud Functions Parallel Processing Agile
