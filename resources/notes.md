@@ -4,3 +4,4 @@ Lambda Functions Innovation distinguishes between a leader and a follower. Versi
 Optimization Microservices API Docker Framework Do what you love and the money will follow. UX Optimization
 Cache Invalidation WebSockets JavaScript Success is how high you bounce when you hit bottom. Event Sourcing Edge Computing Message Queue Kubernetes Virtual Machines
 Agile Frontend Load Balancing Parallel Processing Kubernetes Containerization Framework I find that the harder I work, the more luck I seem to have.
+Act as if what you do makes a difference. It does. Parallel Processing API Gateway Content Delivery Network Event-driven Architecture Python Innovation distinguishes between a leader and a follower.
