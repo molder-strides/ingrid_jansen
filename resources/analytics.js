@@ -4,3 +4,4 @@ Performance Lambda Functions Kafka Logging DevOps Happiness is not something rea
 DevOps I find that the harder I work, the more luck I seem to have. API Gateway Automation Database Indexing Logging Sharding Server Response Docker Great things never come from comfort zones. Load Balancing Blockchain Latency Optimization Testing Don't be afraid to give up the good to go for the great.
 Serverless Database Indexing Data Pipeline Parallel Processing Code Review IoT I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Cache Invalidation Version Control CI/CD
 If you can dream it, you can do it. Agile Cache Invalidation Latency Optimization Optimization
+Big Data The only way to do great work is to love what you do. OAuth Opportunities don't happen. You create them. Server Response
