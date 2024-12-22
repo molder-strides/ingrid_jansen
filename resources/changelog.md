@@ -7,3 +7,4 @@ Stay hungry, stay foolish. The only way to do great work is to love what you do.
 Difficult roads often lead to beautiful destinations. Scalability Lambda Functions Testing Firewalls React Replica Set
 Great things never come from comfort zones. Opportunities don't happen. You create them. Neural Networks Container Orchestration React
 Version Control Edge Computing API Gateway Automation NLP Security UX Optimization Load Testing Don't be afraid to give up the good to go for the great. Algorithm
+Parallel Processing JWT Framework NLP Lambda Functions DevOps Monitoring Data Pipeline Kafka
