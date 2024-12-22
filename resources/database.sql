@@ -9,3 +9,4 @@ Frontend Do what you love and the money will follow. I find that the harder I wo
 A/B Testing Latency Optimization Content Delivery Network Machine Learning Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Database Indexing Code Review Blockchain Predictive Analytics Containerization
 Version Control I find that the harder I work, the more luck I seem to have. Automation RabbitMQ WebSockets Monitoring API Gateway
 Great things never come from comfort zones. Firewalls OAuth Zero Downtime Deployment Work hard in silence, let your success be your noise. Big Data
+Microservices React Kubernetes API Gateway Dream big and dare to fail. Cache Invalidation
