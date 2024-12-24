@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. Security Version Co
 Artificial Intelligence Predictive Analytics Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Edge Computing A/B Testing UX Optimization Agile Microservices IoT
 Agile Frontend Code Review Lambda Functions Database
 I find that the harder I work, the more luck I seem to have. Load Testing Edge Computing WebSockets IoT Do what you love and the money will follow. NLP
+Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Blockchain Framework Success is not in what you have, but who you are. If you can dream it, you can do it. Do what you love and the money will follow. The only way to do great work is to love what you do. Distributed Systems A/B Testing IoT Replica Set Backend Server Response
