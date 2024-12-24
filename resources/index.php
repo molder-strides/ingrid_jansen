@@ -6,3 +6,4 @@ Data Pipeline React Difficult roads often lead to beautiful destinations. Work h
 UX Optimization A/B Testing Distributed Systems Event-driven Architecture DevOps Agile Don't be afraid to give up the good to go for the great. Big Data Quantum Computing Framework Neural Networks Microservices Simplicity is the ultimate sophistication.
 Cloud Backend Dream big and dare to fail. Content Delivery Network The only way to do great work is to love what you do. Distributed Systems Scalability Optimization Success is not in what you have, but who you are. Neural Networks Machine Learning
 Success doesn’t just find you. You have to go out and get it. React Parallel Processing Opportunities don't happen. You create them. Agile
+Optimization Scalability Container Orchestration Happiness is not something ready made. It comes from your own actions. Python Message Queue Pull Request Blockchain Framework
