@@ -10,3 +10,4 @@ Code Review Scalability I find that the harder I work, the more luck I seem to h
 Python RabbitMQ Machine Learning React Monitoring Database Kubernetes
 Kubernetes API Cache Invalidation Database Multi-threading Logging Predictive Analytics Success usually comes to those who are too busy to be looking for it. Load Balancing I find that the harder I work, the more luck I seem to have. Pull Request Microservices
 If you can dream it, you can do it. Server Response DevOps Artificial Intelligence Innovation distinguishes between a leader and a follower. Python Database Code Review Big Data
+Happiness is not something ready made. It comes from your own actions. Distributed Systems Lambda Functions Replica Set Edge Computing Container Orchestration

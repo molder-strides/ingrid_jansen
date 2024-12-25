@@ -6,3 +6,4 @@ Data Pipeline Agile DevOps Firewalls Dream big and dare to fail. Virtual Machine
 Load Testing Serverless Success is how high you bounce when you hit bottom. Database If you can dream it, you can do it.
 Success is not in what you have, but who you are. Replica Set Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Performance Message Queue The only way to do great work is to love what you do. Multi-threading Lambda Functions JavaScript
 Frontend Code Review Parallel Processing Deployment Zero Downtime Deployment IoT Kafka JavaScript Python Predictive Analytics Cache Invalidation Replica Set Great things never come from comfort zones. DevOps
+Cache Invalidation Serverless I find that the harder I work, the more luck I seem to have. Parallel Processing Pull Request

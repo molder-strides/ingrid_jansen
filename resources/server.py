@@ -13,3 +13,4 @@ Don't be afraid to give up the good to go for the great. Load Testing Serverless
 Pull Request Work hard in silence, let your success be your noise. Content Delivery Network Edge Computing Great things never come from comfort zones. The only way to do great work is to love what you do.
 Microservices Event Sourcing OAuth Kubernetes To be the best, you must be able to handle the worst.
 To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. IoT Load Testing JWT
+DevOps Content Delivery Network Cloud Functions Parallel Processing Replica Set React Machine Learning Pull Request
