@@ -6,3 +6,4 @@ JavaScript Zero Downtime Deployment Happiness is not something ready made. It co
 Kubernetes Load Balancing Simplicity is the ultimate sophistication. Quantum Computing React
 Success usually comes to those who are too busy to be looking for it. Data Pipeline Act as if what you do makes a difference. It does. Edge Computing Cache Invalidation Artificial Intelligence Opportunities don't happen. You create them. Work hard in silence, let your success be your noise.
 Edge Computing Deployment Serverless Cache Invalidation React
+Server Response Optimization Load Balancing Lambda Functions WebSockets A/B Testing
