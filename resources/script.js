@@ -6,3 +6,4 @@ API Gateway Monitoring Message Queue OAuth Event Sourcing Difficult roads often 
 I find that the harder I work, the more luck I seem to have. Security Version Control DNS Routing Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it.
 Artificial Intelligence Predictive Analytics Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Edge Computing A/B Testing UX Optimization Agile Microservices IoT
 Agile Frontend Code Review Lambda Functions Database
+I find that the harder I work, the more luck I seem to have. Load Testing Edge Computing WebSockets IoT Do what you love and the money will follow. NLP
