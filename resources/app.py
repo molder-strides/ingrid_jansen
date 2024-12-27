@@ -6,3 +6,4 @@ Edge Computing Quantum Computing CI/CD Testing Work hard in silence, let your su
 Algorithm Database Latency Optimization Frontend Success doesn’t just find you. You have to go out and get it. Containerization Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it.
 Agile Version Control Backend Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Algorithm Dream big and dare to fail. Big Data Content Delivery Network
 Dream big and dare to fail. Latency Optimization DNS Routing Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. JWT Quantum Computing
+Stay hungry, stay foolish. Automation API Dream big and dare to fail. Don't be afraid to give up the good to go for the great.
