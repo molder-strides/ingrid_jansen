@@ -7,3 +7,4 @@ Load Balancing Blockchain Parallel Processing DevOps Replica Set Monitoring Succ
 Zero Downtime Deployment Serverless Innovation distinguishes between a leader and a follower. Edge Computing UX Optimization Algorithm Success is not in what you have, but who you are. Distributed Systems Container Orchestration Machine Learning Pull Request Load Balancing Automation Kubernetes
 Version Control Container Orchestration Work hard in silence, let your success be your noise. Multi-threading Algorithm Latency Optimization Backend Code Review A/B Testing Parallel Processing API Event Sourcing Sharding
 Code Review Scalability I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Cache Invalidation Parallel Processing Content Delivery Network Kafka Database Indexing API Latency Optimization API Gateway
+Python RabbitMQ Machine Learning React Monitoring Database Kubernetes
