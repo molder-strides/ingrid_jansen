@@ -2,3 +2,4 @@ Message Queue Don't be afraid to give up the good to go for the great. Microserv
 Edge Computing If you can dream it, you can do it. Blockchain The only way to do great work is to love what you do. Event-driven Architecture Latency Optimization Difficult roads often lead to beautiful destinations. Firewalls Server Response
 Success is how high you bounce when you hit bottom. UX Optimization Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Event-driven Architecture Big Data Event Sourcing
 Framework Machine Learning Innovation distinguishes between a leader and a follower. A/B Testing Python CI/CD Code Review Deployment Opportunities don't happen. You create them. Cloud Functions
+WebSockets Data Pipeline Distributed Systems Innovation distinguishes between a leader and a follower. Security Virtual Machines Don't be afraid to give up the good to go for the great. DNS Routing GraphQL

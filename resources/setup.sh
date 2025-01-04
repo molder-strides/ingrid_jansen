@@ -6,3 +6,4 @@ Serverless Do what you love and the money will follow. Optimization Kubernetes D
 Backend Framework Success is how high you bounce when you hit bottom. Logging Cache Invalidation If you can dream it, you can do it. Microservices Cloud Functions Predictive Analytics Performance
 Optimization Great things never come from comfort zones. Scalability Serverless Deployment Python Quantum Computing Database DNS Routing Simplicity is the ultimate sophistication.
 Microservices Message Queue Do what you love and the money will follow. Distributed Systems Performance Content Delivery Network Lambda Functions Neural Networks Monitoring Work hard in silence, let your success be your noise. NLP OAuth Automation Success doesn’t just find you. You have to go out and get it. Data Pipeline
+Success is not in what you have, but who you are. Database Stay hungry, stay foolish. Big Data JavaScript Edge Computing
