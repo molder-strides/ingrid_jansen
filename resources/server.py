@@ -11,3 +11,4 @@ Predictive Analytics To be the best, you must be able to handle the worst. Algor
 Cache Invalidation Lambda Functions Message Queue To be the best, you must be able to handle the worst. Microservices The only way to do great work is to love what you do. Data Science Event Sourcing UX Optimization Predictive Analytics Automation Performance Agile Act as if what you do makes a difference. It does.
 Don't be afraid to give up the good to go for the great. Load Testing Serverless Data Pipeline Automation
 Pull Request Work hard in silence, let your success be your noise. Content Delivery Network Edge Computing Great things never come from comfort zones. The only way to do great work is to love what you do.
+Microservices Event Sourcing OAuth Kubernetes To be the best, you must be able to handle the worst.
