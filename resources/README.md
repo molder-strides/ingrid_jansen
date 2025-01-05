@@ -2,3 +2,4 @@ Replica Set Great things never come from comfort zones. DevOps Event-driven Arch
 Logging Distributed Systems React Monitoring CI/CD Database Indexing Automation Dream big and dare to fail.
 Latency Optimization Dream big and dare to fail. Firewalls Container Orchestration Performance Multi-threading Content Delivery Network Stay hungry, stay foolish. Version Control If you can dream it, you can do it. Algorithm Distributed Systems
 Latency Optimization Success doesn’t just find you. You have to go out and get it. Parallel Processing Python Testing Great things never come from comfort zones.
+Load Balancing Blockchain Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Lambda Functions Neural Networks Database Indexing IoT Message Queue Docker Dream big and dare to fail. UX Optimization
