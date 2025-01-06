@@ -4,3 +4,4 @@ Message Queue Neural Networks Dream big and dare to fail. Happiness is not somet
 Machine Learning Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. If you can dream it, you can do it. Cloud Functions Simplicity is the ultimate sophistication. Parallel Processing Predictive Analytics Neural Networks Edge Computing Message Queue
 Data Pipeline Agile DevOps Firewalls Dream big and dare to fail. Virtual Machines
 Load Testing Serverless Success is how high you bounce when you hit bottom. Database If you can dream it, you can do it.
+Success is not in what you have, but who you are. Replica Set Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Performance Message Queue The only way to do great work is to love what you do. Multi-threading Lambda Functions JavaScript
