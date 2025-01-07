@@ -7,3 +7,4 @@ Data Pipeline Framework If you can dream it, you can do it. JWT Backend Predicti
 Framework UX Optimization Predictive Analytics Success is not in what you have, but who you are. JavaScript Load Balancing Stay hungry, stay foolish.
 React Content Delivery Network Containerization Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Server Response Deployment Replica Set
 Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Framework Containerization WebSockets Work hard in silence, let your success be your noise. Quantum Computing Performance
+Microservices Load Testing Optimization Python Automation Kubernetes Code Review UX Optimization Content Delivery Network Parallel Processing Stay hungry, stay foolish. Replica Set Message Queue Sharding
