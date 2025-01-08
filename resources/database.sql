@@ -3,3 +3,4 @@ Quantum Computing Multi-threading Serverless Cloud UX Optimization The only way 
 Cache Invalidation Firewalls Cloud Optimization Latency Optimization Version Control Database UX Optimization NLP
 Content Delivery Network Pull Request Predictive Analytics JWT Artificial Intelligence Multi-threading Do what you love and the money will follow.
 Neural Networks Logging Happiness is not something ready made. It comes from your own actions. IoT Latency Optimization Firewalls Do what you love and the money will follow. Data Pipeline Simplicity is the ultimate sophistication. Backend Cache Invalidation Opportunities don't happen. You create them. If you can dream it, you can do it.
+Load Testing Monitoring IoT Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Edge Computing Testing Work hard in silence, let your success be your noise. Replica Set Cloud DNS Routing Agile
