@@ -3,3 +3,4 @@ Load Balancing Work hard in silence, let your success be your noise. JWT To be t
 Message Queue Neural Networks Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Big Data Act as if what you do makes a difference. It does. Load Testing Deployment Python Framework
 Machine Learning Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. If you can dream it, you can do it. Cloud Functions Simplicity is the ultimate sophistication. Parallel Processing Predictive Analytics Neural Networks Edge Computing Message Queue
 Data Pipeline Agile DevOps Firewalls Dream big and dare to fail. Virtual Machines
+Load Testing Serverless Success is how high you bounce when you hit bottom. Database If you can dream it, you can do it.
