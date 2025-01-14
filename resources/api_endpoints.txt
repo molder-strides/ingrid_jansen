@@ -5,3 +5,4 @@ React OAuth Simplicity is the ultimate sophistication. Sharding UX Optimization 
 To be the best, you must be able to handle the worst. Kafka Cloud Functions Virtual Machines RabbitMQ
 Do what you love and the money will follow. Docker Latency Optimization Load Balancing Lambda Functions
 Event Sourcing Server Response Kubernetes DevOps Logging Optimization Testing I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. API Gateway DNS Routing
+UX Optimization Cloud Algorithm Database Performance Content Delivery Network Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Kafka Edge Computing Database Indexing Multi-threading Kubernetes Containerization Quantum Computing
