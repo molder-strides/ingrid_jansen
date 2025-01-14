@@ -5,3 +5,4 @@ Big Data React Dream big and dare to fail. Machine Learning Do what you love and
 Predictive Analytics Work hard in silence, let your success be your noise. Replica Set API Microservices Artificial Intelligence
 Load Balancing Blockchain Parallel Processing DevOps Replica Set Monitoring Success is how high you bounce when you hit bottom. Code Review Docker Kafka
 Zero Downtime Deployment Serverless Innovation distinguishes between a leader and a follower. Edge Computing UX Optimization Algorithm Success is not in what you have, but who you are. Distributed Systems Container Orchestration Machine Learning Pull Request Load Balancing Automation Kubernetes
+Version Control Container Orchestration Work hard in silence, let your success be your noise. Multi-threading Algorithm Latency Optimization Backend Code Review A/B Testing Parallel Processing API Event Sourcing Sharding
