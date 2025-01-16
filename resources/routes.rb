@@ -2,3 +2,4 @@ Message Queue Security Success doesn’t just find you. You have to go out and get
 Quantum Computing Backend Stay hungry, stay foolish. Scalability RabbitMQ Docker To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Load Balancing Kafka Do what you love and the money will follow. Predictive Analytics JavaScript
 Distributed Systems Event Sourcing Predictive Analytics Latency Optimization CI/CD Automation Innovation distinguishes between a leader and a follower. Edge Computing
 Cache Invalidation API Gateway Machine Learning Parallel Processing Multi-threading
+Performance JWT Serverless Code Review Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Logging Container Orchestration Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Quantum Computing Blockchain Great things never come from comfort zones.
