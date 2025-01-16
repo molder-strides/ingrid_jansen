@@ -2,3 +2,4 @@ Latency Optimization Dream big and dare to fail. Kubernetes OAuth Optimization S
 Automation Version Control Dream big and dare to fail. If you can dream it, you can do it. Kafka Database Latency Optimization
 Cache Invalidation Frontend DNS Routing Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Multi-threading
 Kafka Testing Blockchain I find that the harder I work, the more luck I seem to have. A/B Testing Code Review Logging Content Delivery Network Serverless Framework Work hard in silence, let your success be your noise. Firewalls
+Data Pipeline React Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Code Review Neural Networks Automation

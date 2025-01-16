@@ -2,3 +2,4 @@ Difficult roads often lead to beautiful destinations. Performance Agile WebSocke
 Frontend Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. API Gateway NLP Parallel Processing Pull Request Backend Automation
 UX Optimization Parallel Processing Opportunities don't happen. You create them. Sharding Machine Learning Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Database Indexing RabbitMQ WebSockets Version Control Edge Computing Simplicity is the ultimate sophistication. React
 Frontend Big Data Act as if what you do makes a difference. It does. Data Pipeline Load Balancing Cache Invalidation Container Orchestration Firewalls Cloud Functions Pull Request NLP Blockchain Cloud Edge Computing
+Edge Computing Quantum Computing CI/CD Testing Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. NLP
