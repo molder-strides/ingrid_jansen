@@ -3,3 +3,4 @@ UX Optimization WebSockets Logging Distributed Systems Innovation distinguishes 
 Microservices OAuth Automation NLP Innovation distinguishes between a leader and a follower. API Framework Message Queue Container Orchestration
 Container Orchestration Backend Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Cloud Functions Work hard in silence, let your success be your noise.
 Serverless Do what you love and the money will follow. Optimization Kubernetes Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. JavaScript Firewalls Multi-threading Innovation distinguishes between a leader and a follower.
+Backend Framework Success is how high you bounce when you hit bottom. Logging Cache Invalidation If you can dream it, you can do it. Microservices Cloud Functions Predictive Analytics Performance
