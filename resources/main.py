@@ -5,3 +5,4 @@ Latency Optimization Container Orchestration Cloud Functions Success usually com
 NLP Logging Machine Learning Load Balancing Scalability Algorithm Cache Invalidation If you can dream it, you can do it.
 Data Pipeline Framework If you can dream it, you can do it. JWT Backend Predictive Analytics
 Framework UX Optimization Predictive Analytics Success is not in what you have, but who you are. JavaScript Load Balancing Stay hungry, stay foolish.
+React Content Delivery Network Containerization Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Server Response Deployment Replica Set
