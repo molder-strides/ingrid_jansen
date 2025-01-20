@@ -6,3 +6,4 @@ API Pull Request Cache Invalidation Cloud RabbitMQ Do what you love and the mone
 Database Indexing Lambda Functions Framework Monitoring Logging GraphQL DNS Routing
 Edge Computing Container Orchestration Neural Networks Innovation distinguishes between a leader and a follower. Firewalls Database Indexing Frontend API DevOps
 Serverless Scalability OAuth Do what you love and the money will follow. Content Delivery Network Logging Framework A/B Testing Dream big and dare to fail. The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Automation
+Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Artificial Intelligence Algorithm Message Queue JWT Success is how high you bounce when you hit bottom. Code Review Event-driven Architecture
