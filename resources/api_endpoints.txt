@@ -2,3 +2,4 @@ Replica Set RabbitMQ Framework Automation Work hard in silence, let your success
 DNS Routing Big Data Agile RabbitMQ Container Orchestration Database Indexing Kubernetes Opportunities don't happen. You create them. Logging Scalability If you can dream it, you can do it. Dream big and dare to fail. Code Review
 Neural Networks Deployment Success is how high you bounce when you hit bottom. Docker Agile
 React OAuth Simplicity is the ultimate sophistication. Sharding UX Optimization To be the best, you must be able to handle the worst. A/B Testing Virtual Machines RabbitMQ GraphQL Version Control Cloud Serverless
+To be the best, you must be able to handle the worst. Kafka Cloud Functions Virtual Machines RabbitMQ
