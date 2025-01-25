@@ -1,2 +1,3 @@
 Replica Set Great things never come from comfort zones. DevOps Event-driven Architecture Logging Do what you love and the money will follow. Load Balancing Multi-threading Artificial Intelligence Cloud Functions Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Containerization Success is not in what you have, but who you are. UX Optimization
 Logging Distributed Systems React Monitoring CI/CD Database Indexing Automation Dream big and dare to fail.
+Latency Optimization Dream big and dare to fail. Firewalls Container Orchestration Performance Multi-threading Content Delivery Network Stay hungry, stay foolish. Version Control If you can dream it, you can do it. Algorithm Distributed Systems
