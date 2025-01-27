@@ -1,2 +1,3 @@
 CI/CD Success doesn’t just find you. You have to go out and get it. OAuth DNS Routing Event-driven Architecture Performance
 NLP Containerization Algorithm Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Load Balancing JWT Frontend Difficult roads often lead to beautiful destinations. Lambda Functions Act as if what you do makes a difference. It does. WebSockets Cache Invalidation
+WebSockets Sharding I find that the harder I work, the more luck I seem to have. Event-driven Architecture Automation The only way to do great work is to love what you do. Stay hungry, stay foolish. Containerization Zero Downtime Deployment Load Testing Database Optimization Logging
