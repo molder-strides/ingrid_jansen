@@ -3,3 +3,4 @@ Performance Latency Optimization Message Queue Monitoring Python DevOps Neural N
 Version Control Framework Success doesn’t just find you. You have to go out and get it. Deployment Container Orchestration
 Blockchain Quantum Computing Security Success is how high you bounce when you hit bottom. DevOps Firewalls Algorithm JWT Event-driven Architecture UX Optimization
 API Pull Request Cache Invalidation Cloud RabbitMQ Do what you love and the money will follow.
+Database Indexing Lambda Functions Framework Monitoring Logging GraphQL DNS Routing
