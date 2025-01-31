@@ -1,1 +1,2 @@
 Message Queue Don't be afraid to give up the good to go for the great. Microservices Firewalls Kubernetes Event Sourcing JWT Security Blockchain
+Edge Computing If you can dream it, you can do it. Blockchain The only way to do great work is to love what you do. Event-driven Architecture Latency Optimization Difficult roads often lead to beautiful destinations. Firewalls Server Response
